@@ -1,20 +1,8 @@
-# Word counter
+# wordcounter_cpp
 
-## Requirements
+Simple program to count letters in a sentence excluding special symbols.
 
-1. Windows.
-2. Anything that can compile it.
+## Generating project files
 
-## How to use
-
-### Compilation example
-
-I recommend using MSVC as i used it to test the program.
-
-clang++ source.cpp -o source.exe
-
-### Sample input
-
-source.exe hello?
-
-You can also just open the .exe file generated
+To generate a project file, run GenerateProject.bat inside scripts folder.
+This will create a vs2019 project file.
