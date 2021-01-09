@@ -16,3 +16,5 @@ clang++ source.cpp -o source.exe
 ### Sample input
 
 source.exe hello?
+
+You can also just open the .exe file generated
